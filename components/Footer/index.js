@@ -16,7 +16,9 @@ const Footer = ({}) => {
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
               TOGETHER
             </h1>
+             <Link href="https://drive.google.com/file/d/10SoqpLA2hN0tEZO-2Dox1ZZDH0wr11HY/view?usp=sharing">
             <Button>See My Resume</Button>
+            </Link>
             <div className="mt-10">
               <Socials />
             </div>
