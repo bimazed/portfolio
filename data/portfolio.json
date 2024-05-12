@@ -1,0 +1,81 @@
+{
+    "name": "Abirami Panneerselvam",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Abirami - curious",
+    "headerTaglineThree": "designer and devloper",
+    
+    "showBlog": true,
+    "darkMode": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/bimazed"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/bimazed"
+      },
+      
+      
+      { "id": "5", "title": "Email", "link": "mailto:abiraamip16@gmail.com" }
+    ],
+
+
+    "projects": [
+      {
+        "id": "1",
+        "title": "Artistry Unveiled",
+        "description": "Crafting visual elegance for the grand opening of a jewelry shop – a showcase of my design finesse in every detail.",
+        "imageSrc": "/jwl.png",
+        "url": "https://www.figma.com/proto/82ZXpjRgOvaveopvrDPzFu/ornament-poster?page-id=0%3A1&type=design&node-id=3-37&viewport=459%2C716%2C1&t=adLGbT1BPhyYa43I-1&scaling=min-zoom&mode=design"
+      },
+      {
+        "id": "2",
+        "title": "Design Reimagined",
+        "description": "Transforming visions into reality with a furniture business showcase – a testament to my expertise in creating functional and stylish spaces.",
+        "imageSrc": "/furn.png",
+        "url": "https://www.canva.com/design/DAF6mTIo__4/1FIo09JUoXXhUFBGyVE_Vw/view?utm_content=DAF6mTIo__4&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+      },
+      {
+        "id": "3",
+        "title": "Harmony Illustrated",
+        "description": "Illustrating musical passion through a Taylor Swift concert poster – a canvas where my artistic skills harmonize with the rhythm of the event.",
+        "imageSrc": "/music.jpg",
+        "url": "https://www.canva.com/design/DAF45kBLHIg/gNDAV3xeB6rrijffqOP41A/view?utm_content=DAF45kBLHIg&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+      },
+      {
+        "id": "4",
+        "title": "Casual Vibes Captured",
+        "description": "Capturing the essence of casual gatherings through design – an exhibition of my ability to translate atmospheres into visual experiences.",
+        "imageSrc": "/Concert.png",
+        "url": "https://www.figma.com/proto/8pPtVqePnHfqlEw4t6Mwrr/music-poster?page-id=0%3A1&type=design&node-id=15-23&viewport=-173%2C477%2C0.49&t=rLLslBrtRWKzRrty-1&scaling=scale-down&mode=design"
+      }
+    ],
+    "services": [
+      {
+        "id": "1",
+        "title": "Art Direction",
+        "description": "I help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      },
+      {
+        "id": "2",
+        "title": "Branding",
+        "description": "I design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      },
+      {
+        "id": "3",
+        "title": "Web Design",
+        "description": "I build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      },
+      {
+        "id": "4",
+        "title": "Interaction Designer",
+        "description": "Interaction designers focus on how users engage with digital interfaces, ensuring that interactions are intuitive, efficient, and enjoyable."
+      }
+    ],
+    "aboutpara": "Hi, I'm Abhi, a UI/UX designer on a mission to create user-friendly and visually appealing digital experiences. I love turning ideas into clean, intuitive designs that people enjoy using. My focus is on making things easy and delightful for users. Whether it's wireframing or polishing high-fidelity prototypes, I enjoy the entire design process. I believe in continuous learning and staying updated with the latest trends to bring fresh perspectives to my work.I collaborate well with teams and thrive on turning challenges into creative solutions. Check out my portfolio to see how I blend creativity and functionality to make digital interactions memorable.Let's create something amazing together!"
+    
+  }
+  
